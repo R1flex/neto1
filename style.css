@@ -160,6 +160,7 @@ body {
 
 .posts__post-who-time {
   color: #888;
+    margin-left: 18px;
 }
 
 .posts__post-who-author {
@@ -340,7 +341,6 @@ sup {
   align-items: center;
   
   height: 84px;
-  width: 1170px;
   
   margin-top: 64px;
   background-color: #f4f7f6;
